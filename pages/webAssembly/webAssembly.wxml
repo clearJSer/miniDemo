@@ -1,0 +1,3 @@
+<!--pages/webassembly/webAssembly.wxml-->
+<!-- <text>pages/webassembly/webAssembly.wxml</text> -->
+<web-view src="https://app.map.sogou.com/develop/"> </web-view>

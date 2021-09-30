@@ -1,0 +1,9 @@
+<!--index.wxml-->
+<view class="container">
+  这里是首页
+  <button type="primary" bindtap="btnTap">进入第二页</button>
+  <view>
+    <div>{{aaa}}</div>
+    <canvas type="webgl"  id="canvas" ></canvas>
+  </view>
+</view>

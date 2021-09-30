@@ -1,0 +1,3 @@
+<!--pages/page2/page2.wxml-->
+<view>pages/page2/page2.wxml</view>
+<button type="primary" bindtap="btnTap"> 获得用户位置信息</button>
